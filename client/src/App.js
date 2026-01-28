@@ -2,7 +2,7 @@ import './App.css';
 import axios from "axios";
 import { useEffect, useState } from 'react';
 
-const API = process.env.REACT_APP_API_URL ||"http://localhost:5000";
+const API = process.env.REACT_APP_API_URL ||"http://localhost:3000";
 
 function App() {
 
