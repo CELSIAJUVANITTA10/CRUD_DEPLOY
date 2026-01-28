@@ -1,5 +1,5 @@
 // Import the libraries - express - mongoose - cors
-require("dotenv").config;
+require("dotenv").config();
 
 const express = require("express");
 const mongoose=require("mongoose");
